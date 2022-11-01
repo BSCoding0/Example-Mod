@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "examplemod:sigmium_block"
+    }
+  ],
+  "result": {
+    "item": "examplemod:sigmium",
+    "count": 9
+  }
+}

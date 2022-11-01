@@ -1,0 +1,10 @@
+{
+  "item.examplemod.raw_sigmium": "Raw Sigmium",
+  "item.examplemod.sigmium": "Sigmium",
+
+  "block.examplemod.sigmium_ore": "Sigmium Ore",
+  "block.examplemod.deepslate_sigmium_ore": "Deepslate Sigmium Ore",
+  "block.examplemod.sigmium_block": "Block of Sigmium",
+
+  "itemGroup.examplemod.sigmium": "Example Mod Tab"
+}

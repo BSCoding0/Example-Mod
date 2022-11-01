@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "examplemod:sigmium_block",
+    "examplemod:sigmium_ore",
+    "examplemod:deepslate_sigmium_ore"
+  ]
+}
