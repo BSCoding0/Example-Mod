@@ -1,6 +1,7 @@
 package net.bsanimation.examplemod.item;
 
 import net.bsanimation.examplemod.ExampleMod;
+import net.bsanimation.examplemod.item.custom.RedButtomItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -11,8 +12,12 @@ public class ModItems {
 
     public static final Item RAW_SIGMIUM = registerItem("raw_sigmium",
             new Item(new FabricItemSettings().group(ModItemGroup.SIGMIUM)));
+
     public static final Item SIGMIUM = registerItem("sigmium",
             new Item(new FabricItemSettings().group(ModItemGroup.SIGMIUM)));
+
+    public static final Item RED_BUTTON = registerItem("red_button",
+            new RedButtomItem(new FabricItemSettings().group(ModItemGroup.SIGMIUM)));
 
 
 
