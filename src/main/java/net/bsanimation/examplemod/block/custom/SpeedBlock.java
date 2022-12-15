@@ -13,8 +13,8 @@ public class SpeedBlock extends Block {
 
     public SpeedBlock(Settings settings, ParticleEffect particle) {
         super(settings);
+        //settings.slipperiness(0.1f);
         this.particle = particle;
-        settings.slipperiness(1.1f);
     }
 
     @Override

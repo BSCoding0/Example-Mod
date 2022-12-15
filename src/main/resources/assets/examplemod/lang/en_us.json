@@ -6,6 +6,7 @@
   "block.examplemod.sigmium_ore": "Sigmium Ore",
   "block.examplemod.deepslate_sigmium_ore": "Deepslate Sigmium Ore",
   "block.examplemod.sigmium_block": "Block of Sigmium",
+  "block.examplemod.speed_block": "Speedy Block",
 
   "itemGroup.examplemod.sigmium": "Example Mod Tab"
 }
